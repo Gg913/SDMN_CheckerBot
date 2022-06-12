@@ -7,17 +7,17 @@
         "Bot",
         "Modular"
     ],
-    "website": "https://telegram.me/SDMN_CheckerBot",
-    "repository": "https://github.com/iam-NVN/SDMN_CheckerBot",
+    "website": "https://telegram.me/mdzCHKbot",
+    "repository": "https://github.com/Gg913/SDMN_CheckerBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Enter your Bot Token Here. Get it from @Botfather",
-            "value": "",
+            "value": "5282113283:AAF3IGZojS2vD6624BkPH-QWvSe3rfI_dPM",
             "required": true
         },
         "ADMIN_ID": {
             "description": "Enter the User ID of Admin.",
-            "value": "",
+            "value": "1740075227",
             "required": true
         },
         "LOGS_DUMP_ID": {
@@ -57,7 +57,7 @@
         },
         "TIMEZONE": {
             "description": "Your Preffered TimeZone",
-            "value": "Asia/Kolkata",
+            "value": "America/Toronto",
             "required": false
         }
     },
