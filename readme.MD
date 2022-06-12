@@ -69,7 +69,7 @@ A Telegram CC Checker Bot with hella lotta features.
  - Set Webhook to main.php in root folder of bot 
 
 ### Hosting on Heroku
-**[Click Here to go to Heroku Version](https://github.com/iam-NVN/SDMN_CheckerBot/tree/heroku-version)**
+**[Click Here to go to Heroku Version](https://github.com/Gg913/SDMN_CheckerBot/tree/heroku-version)**
 
 
 ## 🎯 Author
