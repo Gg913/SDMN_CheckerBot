@@ -20,7 +20,7 @@ $config['botToken'] = "";
 | ID can be obtained from https://telegram.dog/username_to_id_bot
 |
 */
-$config['adminID'] = "";
+$config['adminID'] = "1740075227";
 
 /*
 |--------------------------------------------------------------------------
@@ -43,7 +43,7 @@ $config['logsID'] =  "";
 | By Default it's in IST
 |
 */
-$config['timeZone'] =  "Asia/Kolkata";
+$config['timeZone'] =  "America/Toronto";
 
 /*
 |--------------------------------------------------------------------------
