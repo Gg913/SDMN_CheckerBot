@@ -31,7 +31,7 @@ $config['adminID'] = $_ENV['1740075227,5306351983'];
 | ID can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['logsID'] =  $_ENV['LOGS_DUMP_ID'];
+$config['logsID'] =  $_ENV['-1001783823529'];
 
 /*
 |--------------------------------------------------------------------------
@@ -43,7 +43,7 @@ $config['logsID'] =  $_ENV['LOGS_DUMP_ID'];
 | By Default it's in IST
 |
 */
-$config['timeZone'] =  $_ENV['TIMEZONE'];
+$config['timeZone'] =  $_ENV['America/Toronto'];
 
 /*
 |--------------------------------------------------------------------------
@@ -52,10 +52,10 @@ $config['timeZone'] =  $_ENV['TIMEZONE'];
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  $_ENV['DB_HOST'];
-$config['db']['username'] =  $_ENV['DB_USERNAME'];
-$config['db']['password'] =  $_ENV['DB_PASSWORD'];
-$config['db']['database'] =  $_ENV['DB_NAME'];
+$config['db']['hostname'] =  $_ENV['localhost'];
+$config['db']['username'] =  $_ENV['id18764369_mdzchk'];
+$config['db']['password'] =  $_ENV['grl}aN983cMcK/X~'];
+$config['db']['database'] =  $_ENV['id18764369_chk'];
 
 /*
 |--------------------------------------------------------------------------
@@ -75,8 +75,8 @@ $config['anti_spam_timer'] =  $_ENV['ANTISPAM_TIMER'];
 |
 | SK Keys for !sm checker gate
 | Add a Live SK Key here. You can Also add Multiple SK Keys
-| array('sk1','sk2','sk3')
+| array('sk_live_QN9rgkuy0TddD49xFprKWmaU','sk_live_G2X5xB1Sd5dljP8rHsGURyjM','sk_live_RhR1lXYtXnp9kOMlXqADGzfu)
 |
 */
-$config['sk_keys'] =  explode(",", $_ENV['SK_KEYS']);
+$config['sk_keys'] =  explode(",", $_ENV['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']);
 ?>
